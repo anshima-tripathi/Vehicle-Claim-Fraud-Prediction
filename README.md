@@ -26,11 +26,12 @@ Tool	Purpose
 📈 Matplotlib, Seaborn	Visualization
 📂 Project Structure
 Vehicle-Claim-Fraud-Prediction/
+```bash
 │
 ├── Vehicle Claim fraud Predic (2) (1).ipynb   # Main notebook
 ├── README.md                                 # Project documentation
 └── requirements.txt (optional)
-
+```
 🚀 How to Run
 
 1️⃣ Clone the repository
